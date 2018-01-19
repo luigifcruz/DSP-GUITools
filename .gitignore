@@ -1,2 +1,6 @@
+*.plist
 .DS_Store
 *.swp
+*.o
+constellation
+bitviewer
